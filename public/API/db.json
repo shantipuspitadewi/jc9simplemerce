@@ -1,0 +1,80 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "alvin",
+        "email": "alvin@gmail.com",
+        "password": "satuduatiga"
+      },
+      {
+        "username": "dewi",
+        "email": "dewi",
+        "password": "anakayam",
+        "id": 2
+      },
+      {
+        "username": "kiki",
+        "email": "kiki@gmail.com",
+        "password": "kiki",
+        "id": 3
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "DELMA",
+        "desc": "Adjustable handle zip shopper bag",
+        "price": 5000000,
+        "src": "https://images.tedbakerimages.com/uk%2FWomens%2FOutlet%2FDELMA-Adjustable-handle-zip-shopper-bag-Black%2FXC8W_DELMA_BLACK_1.jpg.jpg?o=SPuwAbV87R46K1I8eDrZZPPXzboj&V=JltD&w=1024%26h=1280%26q=80"
+      },
+      {
+        "id": 1,
+        "name": "alexiiis ",
+        "desc": "Illusion print medium suitcase",
+        "price": 13000000,
+        "src": "https://images.tedbakerimages.com/uk%2FWomens%2FAccessories%2FBags%2FALEXIIS-Faceted-bow-leather-tote-bag-Black%2FXC8W_ALEXIIS_BLACK_1.jpg.jpg?o=BNO@K@IQnNu2AkGNRRfdlgXqDOoj&V=t6Jv&w=1024%26h=1280%26q=80"
+      },
+      {
+        "id": 3,
+        "name": "Illiza",
+        "desc": "Baru Lebaran 2019, Kondisi 90%, minus box",
+        "price": 23000000,
+        "src": "https://images.tedbakerimages.com/uk%2FWomens%2FAccessories%2FBags%2FILIZA-Illusion-print-medium-suitcase-Mid-Green%2FXH9W_ILIZA_MID-GREEN_1.jpg.jpg?o=DqolYOM0EClsdOaNoHFF4ksmZfgj&V=tTj5&w=1024%26h=1280%26q=80"
+      },
+      {
+        "name": "Octomon",
+        "desc": "Knitted tote bag",
+        "price": 340000,
+        "src": "https://images.tedbakerimages.com/uk%2FWomens%2FAccessories%2FBags%2FOCTOMON-Knitted-tote-bag-Pink%2FSS19_OCTOMON_PINK_1.jpg.jpg?o=3YZYITm0C8iWEPp0v693h7mKCxYj&V=hNUI&w=1024%26h=1280%26q=80",
+        "id": 4
+      },
+      {
+        "name": "Ellaine",
+        "desc": "Berry Sundae straw cross body bag",
+        "price": 3500000,
+        "src": "https://images.tedbakerimages.com/uk%2FWomens%2FAccessories%2FBags%2FELAAINE-Berry-Sundae-straw-cross-body-bag-Bright-Red%2FXH9W_ELAAINE_BRT-RED_1.jpg.jpg?o=eWVGEbplOXarA67Ut9HSYc$8qikj&V=@8ZX&w=1024%26h=1280%26q=80",
+        "id": 5
+      },
+      {
+        "name": "Odelle leather purse ",
+        "desc": "Ted Baker grained leather purse",
+        "price": 3500000,
+        "src": "https://images.selfridges.com/is/image/selfridges/870-10003-153430_BLACK_ALT10?$PDP_M_ZOOM$&defaultImage=870-10003-153430_BLACK_M",
+        "id": 6
+      },
+      {
+        "name": "Silkon",
+        "desc": "Soft small icon bag",
+        "price": 2700000,
+        "src": "https://images.tedbakerimages.com/uk%2FWomens%2FAccessories%2FBags%2FSILCON-Soft-small-icon-bag-Black%2FAW19_SILCON_BLACK_1.jpg.jpg?o=VtWLbBLA18np2qY3GTv2Msiuadoj&V=EDDI&w=1024%26h=1280%26q=80",
+        "id": 7
+      },
+      {
+        "desc": "Deenise ",
+        "name": "Croc embossed backpack",
+        "price": 10500000,
+        "src": "https://images.tedbakerimages.com/uk%2FWomens%2FAccessories%2FBags%2FDEENISE-Croc-embossed-backpack-Black%2FAW19_DEENISE_BLACK_1.jpg.jpg?o=7R7@FiSDVZ8uXwQSNiaR@I4QR9sj&V=21$i&w=1024%26h=1280%26q=80",
+        "id": 8
+      }
+    ]
+  }
